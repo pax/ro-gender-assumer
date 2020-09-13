@@ -1,4 +1,4 @@
-Sexul probabil al numelor proprii românești<sup>1</sup>
+Genul probabil al numelor proprii românești<sup>1</sup>
 
 Verifică ultimul nume din coloana `<name_col_name>` după o listă de excepții<sup>2</sup> (nume de fete care nu se termină în 'A' și nume băieți care se termină în 'A'), dacă nu e o excepție, decide după ultima literă - A/non-A 
 
