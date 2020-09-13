@@ -10,7 +10,8 @@ boynamez = 'names/A_males.csv'
 girlnamez = 'names/non-A_females.csv'
 output_folder_name = 'gender-guessed'
 input_file = sys.argv[1]
-name_col = 6
+name_col = sys.argv[2]
+# name_col = 6
 
 start_time = time.time()
 

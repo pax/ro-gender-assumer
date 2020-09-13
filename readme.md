@@ -1,5 +1,9 @@
 Sexul probabil al numelor proprii românești
 
+`python assume-gender.py <path/to/input_file.csv> <name_col_no>`
+
+assumed csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
+
 - [non-A_females.csv](names/non-A_females.csv)  – nume feminine care nu se termină în litera A
 - [A_males.csv](names/A_males.csv)  - nume masculine care se termină cu litera A
 
