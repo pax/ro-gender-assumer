@@ -8,16 +8,20 @@ from utils.strings import replaceMultiple
 
 boynamez = 'names/A_males.csv'
 girlnamez = 'names/non-A_females.csv'
-input_file_name = 'CT.csv'
-input_folder = 'data/input/'
-output_folder = 'data/output/'
+output_folder_name = 'gender-guessed'
+input_file = sys.argv[1]
 name_col = 6
 
 start_time = time.time()
 
-input_file = input_folder + input_file_name
-output_filename = os.path.basename(input_file) + '+gen.csv'
-output_file = output_folder + output_filename
+folder = os.path.dirname(input_file)
+
+# create output folder if it doesn;t exist
+if not os.path.exists(folder + '/' + output_folder_name):
+    os.makedirs(folder + '/' + output_folder_name)
+
+# save to <path>/<$output_folder>/<$input_filename>+gen.csv
+output_file = folder + '/' + output_folder_name + '/' + os.path.splitext(os.path.basename(input_file))[0] + '+gen.csv'
 
 input_data = pd.read_csv(input_file)
 boys = pd.read_csv(boynamez)
@@ -54,6 +58,7 @@ for index, row in input_data.iterrows():
         input_data.loc[index, 'gen'] = gender
 
     pbar.update(1)
+
 
 input_data.to_csv(output_file)
 
