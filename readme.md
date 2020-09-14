@@ -12,6 +12,8 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
 [2] sursă: [BEC 2016](http://2016bec.ro/candidati/index.html) 
 
+PS. Am găsit ulterior asta [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional)
+
 ---
 
 ![Did You Just Assume My Gender?](https://i.kym-cdn.com/photos/images/original/001/182/645/379.jpg)
