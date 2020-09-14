@@ -1,6 +1,6 @@
-Genul probabil al numelor proprii românești<sup>1</sup>
+Genul probabil al numelor proprii românești<sup> 1</sup>
 
-Verifică ultimul nume din coloana `<name_col_name>` după o listă de excepții<sup>2</sup> (nume de fete care nu se termină în 'A' și nume băieți care se termină în 'A'), dacă nu e o excepție, decide după ultima literă - A/non-A 
+Verifică ultimul nume din coloana `<name_col_name>` după o listă de excepții<sup> 2</sup> (nume de fete care nu se termină în 'A' și nume băieți care se termină în 'A'), dacă nu e o excepție, decide după ultima literă - A/non-A 
 
 usage: `python assume-gender.py <path/to/input_file.csv> <name_col_name>`
 
@@ -12,7 +12,7 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
 [2] sursă: [BEC 2016](http://2016bec.ro/candidati/index.html) 
 
-PS. Am găsit ulterior asta [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional)
+<mark>**PS.**</mark> Am remarcat ulterior că de fapt exista și [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional, incl RO)
 
 ---
 
