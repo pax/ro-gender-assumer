@@ -14,6 +14,8 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
 <mark>**PS.**</mark> Am remarcat ulterior că de fapt exista și [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional, incl RO)
 
+PS2. See also [Sexul candidaților](https://pax.github.io/playground/sexul-candidatilor/#) (WIP)
+
 ---
 
 ![Did You Just Assume My Gender?](https://i.kym-cdn.com/photos/images/original/001/182/645/379.jpg)
