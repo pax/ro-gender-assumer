@@ -23,3 +23,7 @@ PS3. [Alegeri cu liste de candidați la consiliul local care încalcă legea](ht
 ---
 
 ![Did You Just Assume My Gender?](https://i.kym-cdn.com/photos/images/original/001/182/645/379.jpg)
+
+
+
+<meta property="og:image" content="https://raw.githubusercontent.com/pax/ro-gender-assumer/master/sexul-candidatilor.jpg" />
