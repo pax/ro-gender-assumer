@@ -14,7 +14,11 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
 <mark>**PS.**</mark> Am remarcat ulterior că de fapt exista și [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional, incl RO)
 
-PS2. See also [Sexul candidaților](https://pax.github.io/playground/sexul-candidatilor/#) (WIP)
+PS2. See also [Sexul candidaților](https://pax.github.io/playground/sexul-candidatilor/#) (WIP, buggy)
+
+![sexul candidatilor](sexul-candidatilor.jpg) 
+
+PS3. [Alegeri cu liste de candidați la consiliul local care încalcă legea](https://expertforum.ro/liste-candidati-ilegale/) 
 
 ---
 
