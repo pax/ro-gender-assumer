@@ -14,11 +14,15 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
 <mark>**PS.**</mark> Am remarcat ulterior că de fapt exista și [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional, incl RO)
 
-PS2. See also [Sexul candidaților](https://pax.github.io/playground/sexul-candidatilor/#) (WIP, buggy)
+---
+
+Derivative works:
+
+- [Alegeri locale septembrie 2020 - prezenta femeilor pe listele partidelor si aliantelor politice](https://public.tableau.com/profile/raul2984#!/vizhome/Alegerilocaleseptembrie2020-prezentafemeilorpelistelepartidelor/Dashboard12) (Tableau Dashboard)
+- [Alegeri cu liste de candidați la consiliul local care încalcă legea](https://expertforum.ro/liste-candidati-ilegale/) - Analiză
+- [Sexul candidaților](https://pax.github.io/playground/sexul-candidatilor/#) (hartă Leaflet, WIP, buggy)
 
 ![sexul candidatilor](sexul-candidatilor.jpg) 
-
-PS3. [Alegeri cu liste de candidați la consiliul local care încalcă legea](https://expertforum.ro/liste-candidati-ilegale/) 
 
 ---
 
