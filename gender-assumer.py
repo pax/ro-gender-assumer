@@ -30,7 +30,8 @@ girls = pd.read_csv(girlnamez)
 
 pbar = tqdm(total=len(input_data))
 for index, row in input_data.iterrows():
-    firstnames = row[name_col]
+    firstnames = row[int(name_col)]
+    # tqdm.write(firstnames)
     # break intro single words, by ' ', '-', '–'
     firstnames = replaceMultiple(firstnames, ['-', '–'], ' ')
     firstnamez = firstnames.split()
