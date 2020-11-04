@@ -3,7 +3,8 @@ Genul probabil al numelor proprii românești<sup> 1</sup>
 Verifică ultimul nume din coloana `<name_col_name>` după o listă de excepții<sup> 2</sup> (nume de fete care nu se termină în 'A' și nume băieți care se termină în 'A'), dacă nu e o excepție, decide după ultima literă - A/non-A 
 
 usage: `python gender-assumer.py <path/to/input_file.csv> <name_col>`
-`<name_col>` - indexul coloanei din care se ghicește genul
+
+unde `<name_col>` (int) e indexul coloanei cu nume proprii, din care se ghicește genul
 
 output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
