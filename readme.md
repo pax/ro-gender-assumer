@@ -21,7 +21,7 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 Derivative works:
 
 - [Alegeri locale septembrie 2020 - prezenta femeilor pe listele partidelor si aliantelor politice](https://public.tableau.com/profile/raul2984#!/vizhome/Alegerilocaleseptembrie2020-prezentafemeilorpelistelepartidelor/Dashboard12) (Tableau Dashboard)
-- [Alegeri cu liste de candidați la consiliul local care încalcă legea](https://expertforum.ro/liste-candidati-ilegale/) - Analiză
+- Analize EFOR: [Alegeri cu liste de candidați la consiliul local care încalcă legea](https://expertforum.ro/liste-candidati-ilegale/); [Participarea femeilor la alegerile locale din 2020](https://expertforum.ro/raport-participare-femei-locale/); [Participarea femeilor la alegerile parlamentare din 2020](https://expertforum.ro/participarea-femeilor-parlamentare/)  
 - [Sexul candidaților](https://pax.github.io/playground/sexul-candidatilor/#) (hartă Leaflet, WIP, buggy)
 
 ![sexul candidatilor](sexul-candidatilor.jpg) 
