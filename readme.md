@@ -26,6 +26,8 @@ Derivative works:
 
 ![sexul candidatilor](sexul-candidatilor.jpg) 
 
+![comparație](gg-comparison.png) 
+
 ---
 
 ![Did You Just Assume My Gender?](https://i.kym-cdn.com/photos/images/original/001/182/645/379.jpg)
