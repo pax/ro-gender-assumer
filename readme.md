@@ -14,7 +14,7 @@ output csv: `<path/to>/gender-assumed/<input_file>+gen.csv`
 
 [2] sursă: [BEC 2016](http://2016bec.ro/candidati/index.html) 
 
-<mark>**PS.**</mark> Am remarcat ulterior că de fapt exista și [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional, incl RO)
+<mark>**PS.**</mark> Am remarcat ulterior că de fapt exista și [lead-ratings/gender-guesser](https://github.com/lead-ratings/gender-guesser) (internațional, incl RO), vezi [gender-guesser.py](gender-guesser.py) - la o primă vedere pare mai puțin eficient.  Vezi și [namsor.app](https://namsor.app/) 
 
 ---
 
