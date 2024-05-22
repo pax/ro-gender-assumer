@@ -27,12 +27,10 @@ Derivative works:
 
 ![sexul candidatilor](sexul-candidatilor.jpg) 
 
- 
 
 ---
 
 ![Did You Just Assume My Gender?](https://i.kym-cdn.com/photos/images/original/001/182/645/379.jpg)
 
 
-
-<meta property="og:image" content="https://raw.githubusercontent.com/pax/ro-gender-assumer/master/sexul-candidatilor.jpg" />
+<meta property="og:image" content="https://i.kym-cdn.com/photos/images/original/001/182/645/379.jpg" />
