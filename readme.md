@@ -27,7 +27,7 @@ Derivative works:
 
 ![sexul candidatilor](sexul-candidatilor.jpg) 
 
-![comparație](gg-comparison.png) 
+ 
 
 ---
 
