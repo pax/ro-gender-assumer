@@ -1,7 +1,9 @@
 
 file_path = 'data/candidati-8sept-prev.csv'  
+file_path = 'data/candidati.csv'  
 country_code = 'romania'  
-name_columns = ['last', 'last first', 'last last']  
+# name_columns = ['last', 'last first', 'last last']  
+name_columns = ['Prenume']  
 
 
 import pandas as pd
